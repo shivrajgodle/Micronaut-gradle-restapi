@@ -1,0 +1,5 @@
+ micronaut:
+  application:
+    name: restDemoApp
+  server:
+     port: 8082
